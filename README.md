@@ -12,7 +12,7 @@ Are your preparing for a new job, Expecting a promotion, switching career to IT,
 Having a Hard time Choosing your IT Career Path?
 Career decisions our one of most important life decision. No mater your background, we’ll help you get a clear vision of the available options that works best for you!.
 
-<img align="center" alt="Coding" width="350" src= "[https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif](https://drive.google.com/file/d/19Q1u6G5SqkoAWzzn2vdDbBWOhabreNqX/view?usp=share_link)">
+![reload apache](IMG-20230108-WA0008.jpg)
 
 ## OUR STORY:
   
