@@ -20,4 +20,3 @@ Career decisions our one of most important life decision. No mater your backgrou
 Softpartnas is a group of recruiters, trainers, and employers with a simple goal – Our goal is to offer a one-stop solution for IT job placements and career growth. Our job boards and training resources are designed to offer comprehensive, cost-effective solutions tailor-made for the IT sector. Be it helping emerging talents find new opportunities or helping businesses find skilled IT professionals, the result remains the same – an easier, more efficient hiring process that benefits everyone.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SoftPaartnas&label=Profile%20views&color=0e75b6&style=flat" alt="SoftPartnas" /> </p>
 
-[1st_Batch_2023_jen-july_session]([https://www.example.com](https://github.com/SoftPartnas/1st_Batch_2023_jen-july_session.git))
